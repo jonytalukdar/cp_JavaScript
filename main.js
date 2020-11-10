@@ -16,3 +16,9 @@
 
 // var age = prompt('what is your age ??')
 // document.getElementById('age').innerHTML = age
+
+
+// Number in javascript
+
+// var num1 = 12
+// var num2  = 12.12
